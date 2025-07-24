@@ -1,0 +1,40 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.venv/
+
+# === Environment Variables ===
+.env
+.env.*
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Jupyter Notebooks (if you use them later) ===
+.ipynb_checkpoints/
+
+# === VS Code settings ===
+*.code-workspace
+
+# === Git backup files ===
+*.orig
